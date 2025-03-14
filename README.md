@@ -33,5 +33,8 @@ Where:
 
 Please ensure that every line of code is well documented and explained. Failure to do so may result in a loss of points.
 <br>
+<br>
 
-# Good luck, and may the best data scientists win!
+---
+
+<p align="center"> <strong>Good luck, and may the best data scientists win! 👾</strong> </p>
