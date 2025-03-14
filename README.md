@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/e4a1d970-cae3-4a86-b4b1-a0f9fdc00edf)
 # Welcome to the Ramadan League Data Science Competition!
 
 We are excited to have you participate in this challenge. The competition is divided into five problems, each designed to test your skills in different aspects of data science.
@@ -5,11 +6,11 @@ We are excited to have you participate in this challenge. The competition is div
 ## Competition Structure
 
 ### Problems:
-1. **Architectural Marvel** (10%)
-2. **Can You Solve Me?** (15%)
-3. **Code Breaker** (15%)
-4. **Taxi Time Challenge** (30%)
-5. **Sentiment Sleuth** (30%)
+1. [**Architectural Marvel** (10%)](./1.%20Architectural%20Marvel/)  
+2. [**Can You Solve Me?** (15%)](./Can%20You%20Solve%20Me%3F/)  
+3. [**Code Breaker** (15%)](./Code%20Breaker/)  
+4. [**Taxi Time Challenge** (30%)](./Taxi%20Time%20Challenge/)  
+5. [**Sentiment Sleuth** (30%)](./Sentiment%20Sleuth/)  
 
 ### Scoring System
 
@@ -20,9 +21,9 @@ Your score will be calculated as follows:
 ```
 
 Where:
-- **score_problem**: The score you earn for each problem, ranging from 0 to 100.
-- **weight_problem**: The weight assigned to each problem as listed above.
-- **weight_ine**: A factor based on your INE year:
+- **$\text{score}_{\text{problem}}$**: The score you earn for each problem, ranging from 0 to 100.
+- **$\text{weight}_{\text{problem}}$**: The weight assigned to each problem as listed above.
+- **$\text{weight}_{\text{INE}}$**: A factor based on your INE year:
   - **INE3**: 0.7
   - **INE2**: 0.8
   - **INE1**: 1
