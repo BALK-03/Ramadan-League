@@ -1,4 +1,4 @@
-# Competition: Optimizing the Seq2Seq Bottleneck
+# Optimizing the Seq2Seq Bottleneck
 
 ## Overview
 
