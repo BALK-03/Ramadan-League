@@ -7,7 +7,7 @@ We are excited to have you participate in this challenge. The competition is div
 
 ### Problems:
 1. [**Architectural Marvel** (10%)](./1.%20Architectural%20Marvel/)  
-2. [**Try Solve Me** (15%)](./Try%20Solve%20Me/)  
+2. [**Try Solve Me** (15%)](./2.%20Try%20Solve%20Me/)  
 3. [**Code Breaker** (15%)](./3.%20Code%20Breaker/)  
 4. [**Taxi Time Challenge** (30%)](./4.%20Taxi%20Time%20Challenge/)  
 5. [**Sentiment Sleuth** (30%)](./5.%20Sentiment%20Sleuth/)  
