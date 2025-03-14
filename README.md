@@ -6,11 +6,11 @@ We are excited to have you participate in this challenge. The competition is div
 ## Competition Structure
 
 ### Problems:
-1. [**Architectural Marvel** (10%)](./1.%20Architectural%20Marvel/)  
+1. [**Architectural Marvel** (20%)](./1.%20Architectural%20Marvel/)  
 2. [**Sentiment Sleuth** (30%)](./2.%20Sentiment%20Sleuth/)
-3. [**Code Breaker** (15%)](./3.%20Code%20Breaker/)  
-4. [**Taxi Time Challenge** (30%)](./4.%20Taxi%20Time%20Challenge/)    
-5. [**Try Solve Me** (15%)](./5.%20Try%20Solve%20Me/) 
+3. [**Code Breaker** (20%)](./3.%20Code%20Breaker/)  
+4. [**Taxi Time Challenge** (30%)](./4.%20Taxi%20Time%20Challenge/)
+
 
 ### Scoring System
 
@@ -32,6 +32,12 @@ Where:
 ## Code Documentation Requirements
 
 Please ensure that every line of code is well documented and explained. Failure to do so may result in a loss of points.
+
+## Submit Your Repository
+
+Please refer to the following form to submit your repositories:
+[google form](https://docs.google.com/forms/d/e/1FAIpQLSenHRbQEk1E8W6mZ4BgZclT1IcdOYBPfvoJsoThYg3YZBQybw/viewform?usp=dialog)
+
 <br>
 <br>
 
