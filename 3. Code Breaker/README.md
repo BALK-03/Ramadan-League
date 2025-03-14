@@ -25,6 +25,6 @@ The provided `UnivariateLinearRegression` class contains implementations of:
  
 Your tasks are to:
 1. Identify and fix the bugs
-2. Demonstrate that your fixes work by running the model on the provided sample dataset, Expected output:
+2. Demonstrate that your fixes work by running the model on the generated sample, Expected output:
     - Trained parameters: θ₀ = 3.2396, θ₁ = 1.9373
     - Mean Absolute Error (MAE): 1.4165
